@@ -1,0 +1,6 @@
+{
+  "insecure-registries": [
+    "10.10.10.90:5000",
+    "registry.home.lan:5000"
+  ]
+}

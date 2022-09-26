@@ -1,0 +1,9 @@
+{
+  "data-root": "/MEDIA/DOCKER",
+  "features": { "buildkit": true },
+  "insecure-registries":[
+    "10.10.10.90:5000",
+    "registry.home.lan:5000",
+    "127.0.0.0/8"
+  ]
+}
